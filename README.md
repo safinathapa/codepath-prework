@@ -22,8 +22,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 List of apps that are my favorite are:
-*Snapchat: I can see if they are active in the chat or not. I can also send view only once pictures/videos.
-*Instagram: I can again send view only once pictures/videos.
+*Snapchat: I can see if they are active in the chat or not. I can also send view-only once pictures/videos.
+*Instagram: I can again send view-only once pictures/videos.
 *Tiktok: I can see who viewed my profile.
 
 Thinking of an idea, I want to improve an existing app and that is Instagram. Whenever we post a story on Instagram and you want to find out if a specific person liked it or not, you will havr to scroll through it. It would be a lot better if there was a search button on it.
