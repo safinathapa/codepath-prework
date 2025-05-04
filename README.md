@@ -2,7 +2,7 @@
 
 Submitted by: **Safina Thapa**
 
-**Pre-work** is an app that... [chnages the color of he background when the "Chnage" button is pressed] 
+**Pre-work** is an app that chanages the color of the background when the "Change" button is pressed
 
 Time spent: **1** hours spent in total
 
