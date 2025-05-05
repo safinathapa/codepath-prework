@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://cdn.loom.com/sessions/thumbnails/58ec47cb521a49318e3ca75b8f1671b4-0da163f8d22dd42f-full-play.gif
 
 
 ## App Brainstorming (Step 4)
@@ -35,7 +33,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Safina Thapa]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
