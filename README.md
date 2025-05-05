@@ -10,7 +10,7 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] Users are see a screen with three labels and a button
+- [x] Users see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
@@ -18,19 +18,18 @@ The following **required** functionality is completed:
 ![Loom_FreeScreenVideoRecordingSoftware_Loom-4May2025-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d4a39b88-59f7-474c-9864-6c22033919d2)
 
 
+## App Brainstorming 
 
-## App Brainstorming (Step 4)
-
-The list of apps that are my favorite are:
-*Snapchat: I can see if they are active in the chat or not. I can also send view-only once pictures/videos.
+The list of apps that are my favorite is:
+*Snapchat: I can see if the person I am chatting with is active in the chat or not. I can also send view-only once pictures/videos.
 *Instagram: I can again send view-only once pictures/videos.
 *TikTok: I can see who viewed my profile.
 
-Thinking of an idea, I want to improve an existing app and that is Instagram. Whenever we post a story on Instagram and you want to find out if a specific person liked it or not, you will havr to scroll through it. It would be a lot better if there was a search button on it.
+Thinking of an idea, I want to improve an existing app: Instagram. Whenever we post a story on Instagram and you want to find out if a specific person liked it or not, you will have to scroll through it. It would be a lot better if there were a search button on it.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was a bit confused figuring out the features of Xcode, as I was not familiar with it.
 
 ## License
 
