@@ -2,7 +2,7 @@
 
 Submitted by: **Safina Thapa**
 
-**Pre-work** is an app that chanages the color of the background when the "Change" button is pressed
+**Pre-work** is an app that changes the color of the background when the "Change" button is pressed
 
 Time spent: **1** hours spent in total
 
@@ -15,15 +15,16 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 214.9700598802395%; height: 0;"><iframe src="https://www.loom.com/embed/58ec47cb521a49318e3ca75b8f1671b4?sid=e5e19d74-01c4-43ac-bc55-38247a748f57" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+![Loom_FreeScreenVideoRecordingSoftware_Loom-4May2025-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d4a39b88-59f7-474c-9864-6c22033919d2)
+
 
 
 ## App Brainstorming (Step 4)
 
-List of apps that are my favorite are:
+The list of apps that are my favorite are:
 *Snapchat: I can see if they are active in the chat or not. I can also send view-only once pictures/videos.
 *Instagram: I can again send view-only once pictures/videos.
-*Tiktok: I can see who viewed my profile.
+*TikTok: I can see who viewed my profile.
 
 Thinking of an idea, I want to improve an existing app and that is Instagram. Whenever we post a story on Instagram and you want to find out if a specific person liked it or not, you will havr to scroll through it. It would be a lot better if there was a search button on it.
 
